@@ -28,7 +28,7 @@ def assembled_matrix
   "Grapes",
   "Avocadoes",
   "Asparagus"
-    ]]
+    ]
 end
 
 def sorted_matrix
